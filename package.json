@@ -1,0 +1,25 @@
+{
+  "name": "nuxtweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grafikri/nuxtweb.git"
+  },
+  "author": "Serhan Coşkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grafikri/nuxtweb/issues"
+  },
+  "homepage": "https://github.com/grafikri/nuxtweb#readme",
+  "dependencies": {
+    "nuxt": "^2.8.1"
+  }
+}
