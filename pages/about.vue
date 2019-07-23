@@ -1,6 +1,6 @@
 <template>
   <div>
     <NLink to="/">Home</NLink>
-    <p>About!!!</p>
+    <p>About Human Being</p>
   </div>
 </template>
